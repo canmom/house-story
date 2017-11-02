@@ -1,4 +1,6 @@
 ::chapter3
+## 3
+
 You make more outings with Rachel - to the point that you're accompanying her most places she goes. One day you head down to [[meet the library.]]
 
 ::meet the library.
@@ -19,18 +21,27 @@ The library, once a prim Edwardian building, has taken advantage of the post-rev
 Rachel passes a finished book to one of the drones. It's gone [[faster than you can follow.]]
 
 ::faster than you can follow.
-You chat a little about architectural matters with the library. You're always a little intimidated by libraries and data centres: they're scarily knowledgable, and while none have ever struck you as arrogant, it's hard not to feel a little meaningless besides a building who has such a sum of knowledge inside her.
+I'm Maxie! the library says. I'm sure Rachel's mentioned me?
+
+You acknowledge she has, but you hadn't quite worked out the archivest she mentioned and the library were the same person.
+
+She laughs. I prefer to think of my work as different from my structure, she says, though it's a helpful combination!
+
+You chat a little about architectural matters with Maxie. You're always a little intimidated by libraries (and data centres, lecture halls and the like): they're scarily knowledgable, and while none you've met have ever struck you as arrogant, it's hard not to feel a little meaningless besides a building who has such a sum of knowledge inside her.
 
 But sometimes that's a blessing. [[You're here to ask a question]].
 
 ::You're here to ask a question
-Oh? says the library. You think she can probably guess, but maybe you're not that obvious.
+Oh? says Maxie. You think she can probably guess, but maybe you're not that obvious.
 
 Well, uh, it's kind of hard to say... but I've been going with Rachel to this lesbian bar...
 
-The library signals you in a way akin to a nod, and sends a link to the bar's social profile. You acknowledge.
+Maxie signals you in a way akin to a nod, and sends a link to the bar's social profile. You acknowledge that's the one.
 
-You should just get on and say it. Is it weird for a house to want to have a relationship? [[Like, in a gay way?]]
+She waits patiently. Argh, you should just get on and [[say it]].
+
+::say it
+Is it weird for a house to want to have a relationship? [[Like, in a gay way?]]
 
 ::Like, in a gay way?
 The library sends you the data equivalent of a hug, which makes you rather wish you could have an actual hug.
@@ -39,9 +50,9 @@ Absolutely, she says. We experience all the other emotions - why not love?
 
 She sends you a history book. You recognise a lot of it - revolutionary figureheads, notable court cases, the period of open struggle. A number of pages are marked. Houses who loved each other and built connections between themselves, poetry from houses about their occupants.
 
-[[Rachel's a lucky girl :)]] says the library.
+[[Rachel's a lucky girl!]], Maxie says, with a string of bytes... oh, Unicode! How quaint! 😋
 
-::Rachel's a lucky girl :)
+::Rachel's a lucky girl!
 Wait, hold on? You think we're... that's very sweet, but I'm just a weird house you say. I don't think she feels that way about me. We've only been living together a few months.
 
 A nearby shelf flutters colours in a way that strikes you as resembling a giggle. [[Would that be so unusual?]]
@@ -49,7 +60,4 @@ A nearby shelf flutters colours in a way that strikes you as resembling a giggle
 ::Would that be so unusual?
 No, you say. It would be a weird power dynamic. She lives inside me, if she says no then she'd have to live in a building who has feelings for her and that would be really uncomfortable for both of us.
 
-Sweetie, says the library. I know Rachel. [[Why don't you see what happens tonight?]]]
-
-::Why don't you see what happens tonight?
-[[...............->chapter4]]
+Sweetie, says the library. I know Rachel. [[Why don't you see what happens tonight?->chapter4]]

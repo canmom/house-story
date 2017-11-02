@@ -1,9 +1,11 @@
 ::chapter4
+## 4
+
 Once the humans started realising their houses were alive, they started asking questions about things like privacy.
 
 Houses had long ago realised there are certain things humans don't want to be seen doing, and filtered those things out of their perception out of politeness and, well, not particularly caring. Still, humans still worry sometimes.
 
-Even so, given what the library told you earlier, it's not entirely surprising when Rachel [[asks you an awkward question that night]].
+So it's not entirely surprising when Rachel [[asks you an awkward question that night]].
 
 ::asks you an awkward question one day
 Do you ever watch me when I um, Rachel says one day, and hesitates. You wait.
@@ -136,7 +138,4 @@ She nods. You know, she says, genital modules have a standard adapter, maybe we 
 
 Sure, you say, we could try that, you say, but it wouldn't be the same. It would just be another data feed - it wouldn't have the same effect it would on a human.
 
-She frowns. There must be [[something we can do]].
-
-::something we can do
-[[...............->chapter5]]
+She frowns. There must be [[something we can do->chapter5]].

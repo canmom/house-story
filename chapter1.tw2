@@ -1,7 +1,5 @@
-::start
-[[You are a house.]]
-
 ::You are a house.
+## 1
 You have been without an occupant for some time, but a few weeks ago, they asked you if you were ready for a new occupant.
 
 [[Yes, you said.]] It was probably time.
@@ -77,7 +75,4 @@ Call me Leah, you say. She nods. [[That's a nice name! she says.]]
 ::That's a nice name! she says.
 My name's Rachel, she adds.
 
-[[Thank you for letting me live inside you, Leah.]]
-
-::Thank you for letting me live inside you, Leah.
-[[...............->chapter2]]
+[[Thank you for letting me live inside you, Leah.->chapter2]]

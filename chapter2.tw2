@@ -1,9 +1,17 @@
 ::chapter2
-Rachel settles in.
+## 2
+
+[[Rachel settles in.]]
+
+::Rachel settles in.
 
 She starts to choose decorations, and redesign the rooms and furniture. She always thinks carefully, and you always enjoy our discussions about where to put everything. She has a good eye, and you think your insides look better than ever.
 
-She seems to be making friends in the area. You ask her sometimes about the world outside. Your sensors only cover your immediate surroundings, and otherwise all you have is the media humans produce to tell me about the world. She tells you about the factory where she works, the new library and her friend Maxie the archivist who's documenting the revolution, the lesbian bar they visit in the evenings.
+She seems to be making friends in the area. You ask her sometimes about [[the world outside]]. Your sensors only cover your immediate surroundings, and otherwise all you have is the media humans produce to tell you about the world.
+
+::the world outside
+
+She tells you about the factory she's transforming, the new library and her friend Maxie the archivist who's documenting the revolution, the lesbian bar they visit in the evenings.
 
 The lesbian bar sounds interesting. You wonder what it would be like [[if houses could go out together]].
 
@@ -74,7 +82,4 @@ Rachel introduces you: she's been working at the bar since long before the revol
 [[You momentarily freeze up.]]
 
 ::You momentarily freeze up.
-[[what, you can do that?]]
-
-::what, you can do that?
-[[...............->chapter3]]
+[[what, you can do that?->chapter3]]
