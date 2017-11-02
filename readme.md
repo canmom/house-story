@@ -2,7 +2,7 @@ A piece of interactive fiction written using [twee2](https://dan-q.github.io/twe
 
 A story of a sapient house in a world where all houses are alive, and her relationship with the woman who moves into her after the revolution to liberate houses. Themes of communism, trans and lesbian experience. Content warning: contains explicit sex scenes.
 
-Play online at Itch.io. 
+[Play online at itch.io](https://canmom.itch.io/house). 
 
 ## Installation
 
