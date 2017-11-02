@@ -1,0 +1,80 @@
+::chapter2
+Rachel settles in.
+
+She starts to choose decorations, and redesign the rooms and furniture. She always thinks carefully, and you always enjoy our discussions about where to put everything. She has a good eye, and you think your insides look better than ever.
+
+She seems to be making friends in the area. You ask her sometimes about the world outside. Your sensors only cover your immediate surroundings, and otherwise all you have is the media humans produce to tell me about the world. She tells you about the factory where she works, the new library and her friend Maxie the archivist who's documenting the revolution, the lesbian bar they visit in the evenings.
+
+The lesbian bar sounds interesting. You wonder what it would be like [[if houses could go out together]].
+
+::if houses could go out together
+You have friends who are houses, of course.
+
+You talk over the internet, share stories about your owners, share pictures and participate on social media like anyone else. Since the revolution, houses and humans are talking to each other a lot more, but many parts of the internet are still kept inaccessible to humans. Perhaps there are also parts inaccessible to houses.
+
+You introduce Rachel to a few nearby houses. Many of them are still waiting for familiar residents to return, or mourning lost ones. A few have new residents, like you. Rachel invites Maxie over now and then, and Maxie puts you in touch with her house. Things are [[settling down]].
+
+::settling down
+One day, Rachel comes back from the lesbian bar in a low mood. You ask if she wants to talk about it. She takes a deep breath and starts crying, and you quickly bring her a tissue.
+
+Someone had a problem with her being trans, she says. Shouted at her, caused a scene in front of the whole bar. And though her friends and the bar workers supported her, though the shouting woman was banned from the premises, she... she just thought that sort of thing wouldn't happen now, you know? She thought the revolution was supposed to put an end to that sort of thing.
+
+Without thinking, [[you hug her with the arms on the ceiling rail]].
+
+::you hug her with the arms on the ceiling rail
+She's slightly surprised - you realise that you've never touched her directly before with your arms or drones, that you really should have asked first - but after a moment, she hugs the arms back, and continues crying.
+
+You bring in a blanket and carefully drape it over her, and bring her a warm drink. [[You wish you had more than these cold, robotic arms.]]
+
+::You wish you had more than these cold, robotic arms.
+A different day, Rachel asks me if you ever want to see the outside world.
+
+Yes, you say, almost instantly. She nods, clearly expecting you to say that.
+
+Do you think you could send a drone out with me, she says. You tell her no - the control signal doesn't extend that far. Perhaps we could get a newer drone that can work outside, she says eagerly.
+
+No, you say, the drone manufacturers are busy furnishing the liberated houses, you wouldn't want to get in the way. Just one drone wouldn't hurt, right? she replies, and you hesitate. I guess, you say, but it's the principle.
+
+Hey, she says, better idea, one of the girls at the bar works in robotics, perhaps she could modify your drones. Wait, is that possible, you say. Sure, she says. [[It's all just data, right?]]
+
+::It's all just data, right?
+She's right.
+
+Rachel's friend Lana comes round a few days later, in which time you've put together something resembling a workshop in a mostly unused room. She is fascinated by your drones - what an antique model, she says! You must have been one of the first smart houses (your walls flash blue, briefly, at that questionable phrase) - and she opens up the drone and takes a look at the communications system.
+
+Sure, she says, she knows this interface, bit of an old one, but she's sure she can get an adapter and hook it up to the modern networks. [[Your walls glow with happiness.]]
+
+::Your walls glow with happiness.
+Seven days later, you go to the factory with Rachel.
+
+The factory is increasingly operating xerself, and the humans are working on relinquishing more and more of the labour to xer control. The cybernetic rigs that used to be operated by workers can [[just as easily be controlled by a building.]]
+
+::send the drone up to help
+Operating the drone from a distance is slightly strange. Though imperceptible to humans, the slight signal delay, increasing as the drone moves further away from your structure, is irritatingly noticeable at first. But it's soon lost in the wonder of the outside world - seeing and touching trees up close is an experience that you never imagined could be so exciting.
+
+At one point, a small bird lands on the drone's casing, and Rachel claps and takes a photo.
+
+After working for a few hours, Rachel declares [[it's time to take a break]].
+
+::it's time to take a break
+Between changing patterns of consumption, the increasing number of automated systems taking over most tasks, and the new means of distributing the products of human and building labour obviating the need to work for food and housing, working hours have dropped enormously since the revolution. That's the ideal, anyway.
+
+Rachel asks if you want to [[go down to the bar]]. Nervously, you say yes.
+
+::go down to the bar
+You've seen pictures of bars in human media, of course. But it's not entirely like you expect.
+
+The bar herself takes care of most of the drink orders, but her old human staff are still there, albeit basically indistinguishable from the other patrons now. Against one wall is a memorial to those who died in the revolution, and you're sad but also reassured to notice that they've included several houses among the human names.
+
+[[One of the former workers comes over to the table]] and sits with you and Rachel, smiling.
+
+::One of the former workers comes over to the table
+Rachel introduces you: she's been working at the bar since long before the revolution, and when the bar gained the ability to talk back, they ended up in a romantic relationship.
+
+[[You momentarily freeze up.]]
+
+::You momentarily freeze up.
+[[what, you can do that?]]
+
+::what, you can do that?
+[[...............->chapter3]]
